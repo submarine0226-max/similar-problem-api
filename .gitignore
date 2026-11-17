@@ -1,0 +1,8 @@
+# API 키 (절대 올리지 않기)
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
